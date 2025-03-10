@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "error test"
+title:  "commit test"
 categories: test
 tag:
     - Markdown
@@ -12,5 +12,5 @@ sidebar:
     nav: "counts"
 comments: true
 ---
-# Test Contribution
-마크다운 만들기
+# Commit Test
+브랜치로 풀리퀘시 커밋이 남는지 확인
